@@ -1,2 +1,2 @@
 # ArtBook
-Android sana kitabım uygulaması
+Android sanat kitabım uygulaması
